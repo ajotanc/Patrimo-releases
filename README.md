@@ -1,3 +1,3 @@
-# Inventory System
+# Patrimo
 
-Instaladores e atualizacoes automaticas do Inventory System (Windows, Linux e macOS). O codigo-fonte e privado; os arquivos desta pagina sao gerados pelo workflow de release.
+Instaladores e atualizacoes automaticas do Patrimo (Windows, Linux e macOS). O codigo-fonte e privado; os arquivos desta pagina sao gerados pelo workflow de release.
